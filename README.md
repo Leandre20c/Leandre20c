@@ -28,10 +28,10 @@
 
 ## 🔥 Featured Projects
 
-🎮 **[Game Project](https://github.com/username/repo)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+🎮 **[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
 *2D platformer with custom physics engine*
 
-📱 **[Mobile App](https://github.com/username/repo)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
+📱 **[Mobile App](https://github.com/Leandre20c/epita-timetable)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
 *Task management app with offline sync*
 
 🌐 **[Neuron Network]([https://github.com/username/repo](https://github.com/Leandre20c/XOR-neuron-network))**
