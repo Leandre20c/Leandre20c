@@ -28,14 +28,14 @@
 
 ## 🔥 Featured Projects
 
-🎮 **[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
-*2D platformer with custom physics engine*
-
-📱 **[Mobile App](https://github.com/Leandre20c/epita-timetable)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
-*Task management app with offline sync*
+📱 **[Mobile App - Epita TimeTable](https://github.com/Leandre20c/epita-timetable)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
+*Mobile application for viewing the EPITA schedule in an intuitive and modern way.*
 
 🌐 **[Neuron Network]([https://github.com/username/repo](https://github.com/Leandre20c/XOR-neuron-network))**
 *XOR neuron network for a school project*
+
+🎮 **[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+*3D little game made with Godot*
 
 ---
 
