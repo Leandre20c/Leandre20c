@@ -8,6 +8,17 @@
 - 📚 Computer Science student at **Epita**
 - ⚡ Always curious about new technologies
 
+## 🔥 Featured Projects
+
+**[Mobile App - EpiTime](https://github.com/Leandre20c/epita-timetable)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
+*Mobile application for viewing the EPITA schedule in an intuitive and modern way.*
+
+**[Neuron Network](https://github.com/Leandre20c/XOR-neuron-network)**
+*XOR neuron network for a school project*
+
+**[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
+*3D little game made with Godot*
+
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -26,19 +37,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandre20c&show_icons=true&theme=radical&hide_border=true)
 
-## 🔥 Featured Projects
-
-📱 **[Mobile App - Epita TimeTable](https://github.com/Leandre20c/epita-timetable)** - ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)  
-*Mobile application for viewing the EPITA schedule in an intuitive and modern way.*
-
-🌐 **[Neuron Network]([https://github.com/username/repo](https://github.com/Leandre20c/XOR-neuron-network))**
-*XOR neuron network for a school project*
-
-🎮 **[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
-*3D little game made with Godot*
-
 ---
-
-📫 **Let's connect:** [votre.email@exemple.com](mailto:votre.email@exemple.com) | [LinkedIn](https://linkedin.com/in/votre-profil)
 
 *"Every expert was once a beginner"* ✨
