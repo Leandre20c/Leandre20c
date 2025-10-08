@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Léandre !
 
-🎓 **Computer Science Student** | 🇫🇷 **Based in France**
+**Computer Science Student** | 🇫🇷 **Based in France**
 
-## 🚀 About Me
-- 💻 Learning full-stack development
-- 🌱 Currently exploring **C and Neuron Network**
-- 📚 Computer Science student at **Epita**
-- ⚡ Always curious about new technologies
+## About Me
+- Learning full-stack development
+- Currently exploring **C and Neuron Network**
+- Computer Science student at **Epita**
+- Always curious about new technologies
 
 ## 🔥 Featured Projects
 
@@ -19,7 +19,7 @@
 **[Game Project](https://github.com/Leandre20c/veskilesbuches)** - ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)  
 *3D little game made with Godot*
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,7 +34,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandre20c&show_icons=true&theme=radical&hide_border=true)
 
 ---
